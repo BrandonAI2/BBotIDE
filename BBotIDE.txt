@@ -1,0 +1,13 @@
+BBot.Main.BackgroundColor.Red
+BBot.Main.BackgroundColor.Orange
+BBot.Main.BackgroundColor.Yellow
+BBot.Main.BackgroundColor.Green
+BBot.Main.BackgroundColor.Blue
+BBot.Main.BackgroundColor.Indigo
+BBot.Main.BackgroundColor.Violet
+BBot.Main.John117
+BBot.Main.Colossians23
+BBot.Main.Title
+
+Author: Brandon Ang
+Date: Sept. 25, 2023 (9:39PM) PST
